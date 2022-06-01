@@ -1,0 +1,84 @@
+        * {
+            padding: 0%;
+            margin: 0%;
+        }
+        
+        body {
+            background-color: darkslategray;
+        }
+        
+        h1 {
+            background-color: mediumvioletred;
+            color: navy;
+            text-align: center;
+            margin: 20px;
+            padding: 20px;
+            text-shadow: 5px 5px 5px white;
+        }
+        
+        .class-1 {
+            background-color: yellow;
+            height: 100px;
+            width: 100px;
+            margin: 20px 1000px 20px 100px;
+            padding: 100px;
+        }
+        
+        h2 {
+            background-color: indianred;
+            color: black;
+            margin: 30px 100px;
+            padding: 30px;
+        }
+        
+        .class-2 {
+            background-color: red;
+            margin: 20px 20px 100px 1000px;
+            padding: 100px;
+        }
+        
+        h3 {
+            background-color: darkred;
+            color: lightsalmon;
+            text-align: right;
+            margin: 10px 200px 20px 0px;
+            padding-top: 50px;
+        }
+        
+        .class-3 {
+            background-color: orangered;
+            color: black;
+            font-weight: bolder;
+            text-align: center;
+            margin: 50px;
+            padding: 50px;
+        }
+        
+        .class-4 {
+            background-color: blue;
+            color: orange;
+            margin-top: 30px;
+            margin-left: 500px;
+            margin-right: 500px;
+            margin-bottom: 40px;
+            padding: 50px 50px 200px 100px;
+        }
+        
+        .class-5 {
+            background-color: indigo;
+            color: greenyellow;
+            font-style: italic;
+            text-align: justify;
+            margin-top: 10px;
+            margin-left: 200px;
+            margin-right: 300px;
+            margin-bottom: 70px;
+            padding: 10px 20px 50px 100px;
+        }
+        
+        .class-6 {
+            background-color: turquoise;
+            color: brown;
+            margin: 20px 1000px 20px 100px;
+            padding: 100px;
+        }
